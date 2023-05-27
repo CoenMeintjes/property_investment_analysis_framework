@@ -1,33 +1,30 @@
-# Project Report Summary
+# **Comprehensive Property Investment Analysis**
 
-This project report provides a comprehensive analysis of investment properties, evaluating their financial feasibility and profitability. The report covers various metrics and calculations to assess the potential return on investment and property performance.
+## **Evaluating Feasibility for Optimal Returns**
 
-## Table of Contents
-1. Introduction
-2. Property Information
-3. Financial Metrics and Analysis
-4. Property Evaluation
-5. Conclusion
+This project presents a comprehensive analysis framework designed to consistently and systematically assess the feasibility of property investments. This framework aims to provide stakeholders and investors with a standardized approach to evaluating property deals, while facilitating an iterative feedback loop for continuous improvement.
 
-## Introduction
-The project report aims to assist investors in making informed decisions by providing a detailed analysis of investment properties. It takes into account various factors such as property value, rental income, expenses, financing options, and market conditions.
+By establishing a standardized framework, this project aims to address the need for a reliable method to evaluate property investments. The implementation of a consistent assessment process empowers stakeholders and investors to make informed decisions, while fostering a dynamic feedback loop that allows for on-going refinement and optimization based on accumulated data and experience.
 
-## Property Information
-This section outlines the key details of the investment property, including its purchase price, closing costs, estimated rehabilitation costs, rental income, and other income sources. It provides a comprehensive overview of the property's financial aspects.
+This projects is a continuation of [insert link to the market analysis study] and aims to build on the foundation created in that project. The goal is to create a comprehensive toolkit for property investors to assist in the process of identifying and analysing investment opportunities. 
 
-## Financial Metrics and Analysis
-The report presents a range of financial metrics and analysis to evaluate the investment property's performance. These metrics include:
+Please refer to the full ***Comprehensive Property Investment Analysis Project documentation*** for a detailed description of the process involved with developing this analysis framework. Below an example property is analysed in order to showcase the outcome of the study in terms of being able to analyse a property investment opportunity. 
 
-- Net Operating Income (NOI): Calculated by subtracting operating expenses from the gross income, NOI represents the property's profitability before considering financing and taxes.
-- Cash on Cash Return on Investment (ROI): This metric measures the annual return generated from the cash invested in the property, considering the refinanced loan and cash flow.
-- Capitalization Rate (Cap Rate): The Cap Rate reflects the property's expected rate of return based on its initial NOI and the total project cost.
-- Debt Coverage Ratio: This ratio indicates the property's ability to generate sufficient income to cover monthly mortgage payments and associated expenses.
-- Property Score: A numeric score that assesses the property's financial viability, considering factors such as cash flow and debt coverage.
+## **Example Property Analysis**
 
-## Property Evaluation
-The report includes an evaluation of the investment property based on the financial analysis and metrics discussed. It provides insights into the property's profitability, feasibility, and overall desirability for investment.
+As defined through the design process, the steps for assessing a potential investment property are as follows:
 
-## Conclusion
-The project report concludes by summarizing the findings and providing recommendations based on the evaluation of the investment property. It assists investors in making informed decisions and identifies properties that are most favourable for pursuing further.
+1. Opportunity identification:  guided by market analysis and investor specific criteria regarding capital availability and so forth
+2. Property Data Collection
+3. Investment Cost Definition
+4. Calculations and Analysis
+5. Recommendation
 
-Please refer to the full project report for detailed analysis and calculations.
+For the purpose of this example a random property currently listed for sale was selected to perform an analysis on. In reality there would be a prerequisite process involving various decisions that need to be made by the individual investor in order to identify the opportunity. This allows negating step 1 and moving straight into property data collection.
+
+### **Property Data Collection**
+
+
+
+
+
