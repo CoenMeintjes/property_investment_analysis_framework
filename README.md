@@ -2,29 +2,36 @@
 
 ## **Evaluating Feasibility for Optimal Returns**
 
-This project presents a comprehensive analysis framework designed to consistently and systematically assess the feasibility of property investments. This framework aims to provide stakeholders and investors with a standardized approach to evaluating property deals, while facilitating an iterative feedback loop for continuous improvement.
+This project focuses on the development of a robust framework that enables consistent and systematic assessment of property investments. The goal is to provide stakeholders and investors with a standardized approach to evaluating property deals, while facilitating an iterative feedback loop for continuous improvement.
 
-By establishing a standardized framework, this project aims to address the need for a reliable method to evaluate property investments. The implementation of a consistent assessment process empowers stakeholders and investors to make informed decisions, while fostering a dynamic feedback loop that allows for on-going refinement and optimization based on accumulated data and experience.
+### **Addressing the Need for Reliable Evaluation**
 
-This projects is a continuation of [insert link to the market analysis study] and aims to build on the foundation created in that project. The goal is to create a comprehensive toolkit for property investors to assist in the process of identifying and analysing investment opportunities. 
+New property investors may lack a reliable method for evaluating the feasibility of investment opportunities. This project seeks to bridge that gap by establishing a consistent assessment process. By doing so investors can be empowered to make well-informed decisions and an environment for ongoing refinement and optimization based on their accumulated data and experience can be facilitated. 
 
-Please refer to the full ***Comprehensive Property Investment Analysis Project documentation*** for a detailed description of the process involved with developing this analysis framework. Below an example property is analysed in order to showcase the outcome of the study in terms of being able to analyse a property investment opportunity. 
+### **Building upon Prior Research**
+
+The Comprehensive Property Investment Analysis is built upon the extensive foundation established in the [market analysis study](insert link to the study). This study served as the initial step towards the ultimate goal of developing a comprehensive toolkit designed to assist property investors in identifying and analysing investment opportunities with greater precision and confidence.
+
+### **Documentation and Example Analysis**
+
+To gain a deeper understanding of the development process behind the analytical framework, please explore the complete **Comprehensive Property Investment Analysis Project documentation [insert link]**. This documentation offers detailed insights into the methodology and implementation of the framework.
+
+As a practical demonstration of the framework's capabilities an example analysis has been conducted below. This analysis serves as an illustrative example of how the framework can be utilized to evaluate an opportunity. 
+
+---
 
 ## **Example Property Analysis**
 
-As defined through the design process, the steps for assessing a potential investment property are as follows:
+As outlined in the project documentation, the assessment process consists of the following steps:
 
-1. Opportunity identification:  guided by market analysis and investor specific criteria regarding capital availability and so forth
-2. Property Data Collection
-3. Investment Cost Definition
-4. Calculations and Analysis
-5. Recommendation
+1. Opportunity identification: This step involves identifying potential investment opportunities based on market analysis and investor-specific criteria, such as capital availability and investment goals.
+2. Property Data Collection: Once an opportunity is identified, the next step is to gather relevant data about the property. This includes information such as location, size, condition, amenities, and any other factors that may impact its value and potential returns.
+3. Investment Cost Definition: In this step, costs associated with the investment are determined, including the purchase price, transaction fees, renovation expenses, and ongoing maintenance costs.
+4. Calculations and Analysis: Using the collected data and investment costs, calculations are performed for analysis to evaluate the financial viability of the property. This includes assessing factors such as rental income, potential appreciation, cash flow, return on investment, and other key metrics.
+5. Recommendation: Based on the analysis, a recommendation is provided on whether the property is a viable investment option.
 
-For the purpose of this example a random property currently listed for sale was selected to perform an analysis on. In reality there would be a prerequisite process involving various decisions that need to be made by the individual investor in order to identify the opportunity. This allows negating step 1 and moving straight into property data collection.
+For the purpose of this example, a random property currently listed for sale has been selected. However, it's important to note that in a real-world scenario, there would typically be a prerequisite process involving various decisions made by the individual investor. 
 
 ### **Property Data Collection**
 
-
-
-
-
+to be completed... 
