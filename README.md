@@ -1,5 +1,8 @@
 # **Comprehensive Property Investment Analysis: Evaluating Feasibility for Optimal Returns**
 
+# TODO add a contents table with anchor links
+- add the dashboards
+
 This project report presents a comprehensive analysis framework designed to consistently and systematically assess the feasibility of property investments. This framework aims to provide stakeholders and investors with a standardized approach to evaluating property deals, while facilitating an iterative feedback loop for continuous improvement.
 
 By establishing a standardized framework, this project aims to address the need for a reliable method to evaluate property investments. The implementation of a consistent assessment process empowers stakeholders and investors to make informed decisions, while fostering a dynamic feedback loop that allows for on-going refinement and optimization based on accumulated data and experience.
@@ -301,3 +304,4 @@ The final step is to qualify the property as a deal worth pursuing. This assessm
 | Offer To Purchase | User input | A column to keep track of whether or not an offer to purchase has been made on the respective property. |
 
 ![deal_qualification](images/deal_qualification.png)
+
