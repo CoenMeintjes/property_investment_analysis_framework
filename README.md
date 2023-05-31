@@ -1,4 +1,4 @@
-# **Comprehensive Property Investment Analysis: Evaluating Feasibility for Optimal Returns**
+# **Property Investment Analysis Framework: Feasibility Assessment for Maximum Returns**
 
 ## Table of Contents
 
