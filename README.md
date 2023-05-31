@@ -1,19 +1,27 @@
 # **Comprehensive Property Investment Analysis: Evaluating Feasibility for Optimal Returns**
 
-# TODO add a contents table with anchor links
-- add the dashboards
+## Table of Contents
+
+- [Objective](#section-1)
+- [Project Design](#section-2)
+- [Project Components](#section-3)
+- [Data Requirements and Limitations](#section-4)
+- [Excel Table Design and Data Capture](#section-5)
+- [Variable Design Summary and Next Steps](#section-6)
+- [Feature Generation and Assessment Metrics](#section-7)
+- [Property Reports](#section-8)
 
 This project report presents a comprehensive analysis framework designed to consistently and systematically assess the feasibility of property investments. This framework aims to provide stakeholders and investors with a standardized approach to evaluating property deals, while facilitating an iterative feedback loop for continuous improvement.
 
 By establishing a standardized framework, this project aims to address the need for a reliable method to evaluate property investments. The implementation of a consistent assessment process empowers stakeholders and investors to make informed decisions, while fostering a dynamic feedback loop that allows for on-going refinement and optimization based on accumulated data and experience.
 
-## **Objective**
+## **Objective** <a name="section-1"></a>
 
 The primary objective of this study is to assess the potential return on investment (ROI) of a given property. Building upon the findings of a previous project titled "Analysing South African Property Markets" [insert link], this project expands on the existing framework. Together, these methods provide property investors with the tools and insights necessary to make well-informed investment decisions.
 
 Through the development of this analysis framework, the project seeks to contribute to the knowledge and understanding of property investment feasibility. By offering a systematic approach to evaluating properties, investors can gauge the likelihood of achieving their desired investment goals, ultimately aiding in the decision-making process and enhancing overall investment performance.
 
-## **Project Design**
+## **Project Design** <a name="section-2"></a>
 
 The project design for assessing investment feasibility involves focusing on the BRRRR (buy rehab rent refinance repeat) strategy as the primary approach. This strategy has been chosen due to its popularity and effectiveness in the field of property investment. By aligning the analytical framework with the BRRRR strategy, this project aims to provide a targeted and comprehensive assessment of property investments within this specific context.
 
@@ -23,7 +31,7 @@ The BRRRR strategy involves a series of steps that investors follow to maximize 
 
 By basing the analytical framework on the BRRRR strategy, this project acknowledges the unique considerations and variables associated with this particular investment approach. It takes into account factors such as property acquisition costs, rehabilitation expenses, rental income potential, financing options, and refinancing opportunities. These elements are crucial in determining the feasibility and profitability of property investments within the BRRRR strategy.
 
-## **Project Components**
+## **Project Components** <a name="section-3"></a>
 
 The assessment of property investment feasibility involved several essential components to ensure a comprehensive analysis. These components encompassed the following key steps:
 
@@ -37,7 +45,7 @@ The assessment of property investment feasibility involved several essential com
 
 By defining these project components, a systematic and thorough assessment of property investment feasibility is ensured. The integration of data collection, cost analysis, quantitative calculations, and informed recommendations aimed to provide stakeholders with valuable insights to support the decision-making process.
 
-## **Data Requirements and Limitations**
+## **Data Requirements and Limitations** <a name="section-4"></a>
 
 The assessment of property investment feasibility entails the collection and utilisation of diverse datasets, comprising of both publicly accessible information and input from the investor. While certain data can be obtained from public sources, it is essential to recognise that comprehensive and accurate analysis relies on the investor's domain knowledge and expertise. This analysis framework assumes that the user can provide the necessary data to ensure the accuracy and effectiveness of the assessment.
 
@@ -55,7 +63,7 @@ It is important to acknowledge that the availability and accuracy of data may va
 
 Despite these limitations, the analysis framework assumes that the investor possesses the necessary expertise to navigate these challenges and provide the required data. By leveraging available data and incorporating investor input, the framework aims to provide valuable insights and support informed decision-making. 
 
-## **Excel Table Design and Data Capture**
+## **Excel Table Design and Data Capture** <a name="section-5"></a>
 
 This section of the report provides an in-depth discussion of the design of the Excel table created for the property investment assessment. The focus is on outlining the different sections of data within the table, emphasizing the specific columns and the data captured in each section.
 
@@ -196,13 +204,13 @@ The Future Assumptions section covers key assumptions made regarding future tren
 
 ![future_assumptions](images/future_assumptions.png)
 
-## **Variable Design Summary and Next Steps**
+## **Variable Design Summary and Next Steps** <a name="section-6"></a>
 
 In this section, the data collection process which forms the foundation for assessing the feasibility of the property investment is outlined. The next crucial step is to design and calculate the necessary metrics that will enable an effective evaluation of the property's viability as an investment.
 
 The primary objective of this study is to develop a robust framework that objectively determines whether a property qualifies as a feasible investment. The subsequent section will delve into the process employed to generate the essential features required for this assessment. Additionally, it will provide an overview of the metrics used to make the final determination regarding the investment's potential.
 
-## **Feature Generation and Assessment Metrics**
+## **Feature Generation and Assessment Metrics** <a name="section-7"></a>
 
 This section deals with the process of generating the necessary features and metrics to assess the investment feasibility of the property. The careful design and calculation of these features can effectively evaluate key aspects of the deal such as potential returns, risks, and overall viability.
 
@@ -305,3 +313,10 @@ The final step is to qualify the property as a deal worth pursuing. This assessm
 
 ![deal_qualification](images/deal_qualification.png)
 
+## **Property Reports** <a name="section-8"></a>
+
+Convenient report pages have been developed to offer concise summaries of individual property listings in the analysis database. These pages condense the essential information and key metrics of each listing, enabling quick and efficient evaluation. Furthermore, these reports can be utilized when presenting the property investment to potential financiers, providing a comprehensive overview of the investment opportunity and facilitating effective communication of the property's potential. 
+
+![property_report-pg1](images/property_report.png)
+
+![property_report_pg2](images/property_report_2.png)
